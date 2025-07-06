@@ -2,7 +2,6 @@
 
 AccessPalette is a tool that helps designers and developers choose accessible text and background color combinations that meet WCAG standards. It not only validates contrast ratios but also suggests alternative accessible colors and provides a real-time preview to improve decision-making.
 
----
 
 ## Features
 
@@ -12,7 +11,6 @@ AccessPalette is a tool that helps designers and developers choose accessible te
 - **Flexible Input**: Enter either a text color or a background color and the tool handles the rest.
 - **User-Friendly**: No need for trial and error, get informed suggestions fast.
 
----
 
 ## Why AccessPalette?
 
@@ -22,7 +20,6 @@ Over **2.2 billion people** worldwide have some form of visual impairment. Rough
 
 **AccessPalette** makes accessibility simple, smart, and seamless for everyone.
 
----
 
 ## Contributing
 
@@ -51,19 +48,16 @@ We welcome contributions from developers and designers!
 
 Check out [`CONTRIBUTING.md`](./CONTRIBUTING.md) for more details.
 
----
 
 ## License
 
 This project is licensed under the [Apache-2.0 license](./LICENSE).  
 
----
 
 ## Acknowledgements
 
 - [WCAG 2.1 Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)  
 
----
 
 ## Stay Connected
 
